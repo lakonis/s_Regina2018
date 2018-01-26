@@ -1,5 +1,5 @@
 ### Conversation
-#### Expérimentation d'un format éditorial de communication scientifique
+#### Expérimentation + format éditorial = communication scientifique
 &nbsp;
 
 _Conversations in scholarly journals: experimenting editorial format for scientific communication_
