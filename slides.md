@@ -31,9 +31,9 @@ _CSDH/SCHN Digital Humanities Conference 2018_
 
 ===
 
-In 2016, the journal Sens Public launched a project to redesign its website. But the project quickly pushes the team to rethink the journal technicaly, editorialy and philosophicaly all at once. What appeared as a straightforward project eventually revealed itself as a complex one opening multiple subprojects nested in one another.
+In 2016, the journal Sens Public launched a project to redesign its website. But the project quickly pushes the team to rethink the journal technicaly, editorialy and philosophicaly all at once. What appeared as a straightforward project eventually revealed itself as a complex one that opens multiple subprojects nested in one another.
 
-One of which was the experimentation of a new editorial format for scholarly communication, that would take place within the journal. We named this format _The Conversation_.
+One of which was experimenting a new editorial format for scholarly communication, that would take place within the journal. We named this format _The Conversation_.
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
@@ -50,9 +50,10 @@ _why a conversational editorial format?_
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ===
-We build our experimentation on the assessment that the writing and reading practices of humanities scholars, which have largely moved on towards the digital environment, where not in tune anymore with the traditional forms of scholarly communication, such as the article ("paper"), the monograph or the conference.
 
-Indeed, the digital environment has disrupted the traditional relationships between institutions, apparatus and medium, disrupting in the same time the traditional epistemological model, and particulary the scholarly communication and publishing.
+We build our experimentation on the assessment that the writing and reading practices of scholars in the humanities, which have largely moved on towards the digital environment, where not in tune anymore with the traditional forms of scholarly communication, such as the article ("paper"), the monograph or the conference.
+
+Indeed, the digital environment has disrupted the traditional relationships between institutions, apparatus and medium, disrupting in the same time the traditional epistemological model, and particulary academic publishing.
 
 
 §§§§§SLIDEmoveDown§§§§§
@@ -71,11 +72,12 @@ Indeed, the digital environment has disrupted the traditional relationships betw
 
 
 ===
-They are out of tune first because of an institutional delay : the research are evaluated mainly on the prestige of the journal where it is published, rather than on the scientific quality of the research. This is the direct consequence of the Science Citation Index established in 1960 and which set _publish or perish_ as a leitmotiv. In that evaluation paradigm, journals are seen as a mean for one's career and not as a mean for discussion and sharing.
+
+First, The traditional Artefacts are out of tune because of an institutional delay : the research are evaluated mainly on the prestige of the journal, rather than on the scientific quality of the research. This is the direct consequence of the Science Citation Index established in the 60' and which set the famous _publish or perish_ as a leitmotiv. In that evaluation paradigm, journals are seen as a mean for one's career and not as a mean for discussion and sharing.
 
 Moreover, the institutions are not able to fully take in consideration new forms of writing and publishing, natively digital, such as blogging, micro-blogging, mailing list, multiples contributions on platforms, etc.
 
-Secondly, They are out of tune because of an editorial delay : in terms of publishing, we can observe a shift in the traditional modes of publishing, which remain largely based on the printing model, ignoring the very nature of digital text and the potential of digital environment. The article ("paper"), the monograph, the proceedings, and even the conference, have not yet gone digital. These forms of scholarly communication deeply inherited from the pre-digital era, whether it be economic and legal aspects (such as a certain understanding of copyright), or technical aspects, greatly depending on paper, book and printing expertises.
+Secondly, They are out of tune because of an editorial delay : in terms of publishing, we can observe a shift in the traditional modes of publishing, which remain largely based on the printing model, ignoring the very nature of digital text and the potential of digital environment. Yes, some formats and platforms have enhanced standards and access, but The article ("paper"), the monograph, the proceedings, and even the conference, have not yet gone digital. These forms of scholarly communication deeply inherited from the pre-digital era, whether it be on the economic and legal aspects (such as a certain understanding of copyright), or on the technical aspects, greatly depending on paper, book and printing expertises.
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -96,9 +98,9 @@ One could think that the great scientific conversation is going down. But on the
 ===
 From here, we decided to rethink the role and the mission of the journal in the humanities, or more precisely to renew or revitalise its original mission, which is to create a public space for sharing and discussing hypothesis, ideas, experiences, aiming at one goal only, the progress of knowledge.
 
-Such ambition does not come out of the blue for Sens Public. It has an particular history that makes the journal a natural place for such and experimentation. From its origin on the web in 2003, the journal Sens Public never stopped to address what could be the production and the circulation of knowledge in the public space in the digital era.
+Such ambition does not come out of the blue for Sens Public. It has an particular history that makes the journal a natural place for such an experimentation. From its origin on the web in 2003, the journal never stopped to address the issue of the production and the circulation of knowledge in the digital era.
 
-Therefore experimenting a new form of scholarly communication aligns naturally with the journal's DNA. It aims at opening a new kind of public and publishing space in which the scientific community could grow up to an intelligence network (Vitali-Rosati).
+Therefore experimenting a new form of scholarly communication aligns naturally with the journal's DNA. It aims at opening a new kind of public and publishing space in which the scientific community can develop into an intelligence network (Vitali-Rosati).
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -116,12 +118,11 @@ Therefore experimenting a new form of scholarly communication aligns naturally w
 
 A concept helped us to conceive what would be a conversation. The crystal of knowledge was introduced by JeanClaude Guédon.
 
-**développer sur les idées de Guédon : format plus court, plus fluide.**
+For him, we need to question the article as efficient form for knowledge circulation. He imagine shorter formats in order to make the scientific discourse more fluid. His metaphor of the crystal is useful to imagine those short forms agregating into crystals, in a process of cristalization similar to the settlement of the scientific discourse, but in a temporary or transitory way
 
-Following the metaphor of the crystal, the conversation would be a scientific question on which elements would agregate and crystalize : people, whether they are readers, contributors, authors or even cited authors ; contributions, in the form of discussions threads, articles, annotations, text fragments, agregating together to shape a temporary intelligence and knowledge network.
+Following this metaphor of the crystal, we imagine the conversation as a scientific issue raised to the community, on which elements would agregate and crystalize : some people, whether they are readers, contributors, authors or even cited authors ; some contributions, in the form of discussions threads, articles, annotations, text fragments, agregating together to shape a temporary intelligence and knowledge network.
 
 Temporary since the question, shared by the community, can be ephemeral or persistent. The principle is that the crystal can emerge, cristalize then dissolve according to what the community is willing to address.
-
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -138,7 +139,7 @@ Temporary since the question, shared by the community, can be ephemeral or persi
 <!-- .element: class="tableau" -->
 
 ===
-The journal will have two spaces, as two access point : documentary, based on articles, and conversational, based on social writing.
+The journal will have two spaces, like two access points : documentary, based on articles, and conversational, based on social writing.
 
 But one should think of them as one information space, like the two sides of a coin. They will feed each other with information, since the articles become the medium and the pretext for discussion and conversation, whereas indeed the conversations can eventually give birth to more traditionnal publication such as articles.
 
@@ -162,11 +163,13 @@ But you can notice that the dynamique of the journal is changing : from the jour
 ===
 
 What are the objectives in designing the Conversation.
-First of all, it is the create a common space for sharing ideas, discussing issues, and confronting theories. It should be a place to produce knowledge my mobilizing ressources and people.
+First of all, it is the create a common space for sharing ideas, discussing issues, and confronting theories. It should be a place to produce knowledge by mobilizing ressources and people.
 
-But we know that the Web can be a place of low thinking, reflex and even worth of toughts control : Nicholas Carr considers that Internet as a medium reduces our capacities of concentration and thinking, Dominique Cardon (french sociologist of the web) worries about the predominance of affinity in the content recommandation, Antoinette Rouvroy thinks that the algorithmique gouvernementality or algorithmique regime reduces the individual subjectivity (and future) to predictive profils. Many works on the scheme of attention in the digital environment have analysed how the Web as a communication medium tends towards diminishing the common spaces of memory and knowledge.
+But we know that the Web can be a place of low thinking, reflex acting and even worth of toughts control : Nicholas Carr considers that Internet as a medium reduces our capacities of concentration and thinking, Dominique Cardon (french sociologist of the web) worries about the predominance of affinity in the content recommandation, Antoinette Rouvroy thinks that the algorithmic gouvernementality or algorithmic regime reduces the individual subjectivity (and their future) to predictive profils. Many works on the scheme of attention in the digital environment have analysed how the Web as a communication medium tends towards diminishing the common spaces of memory and knowledge.
 
 However, our hypothesis is that by bringing together the social regime and the documentary regime together in one format and one dispositif, we can recreate such common space and fostering a collective hermeneutic.
+
+ Remains an archive that can always be performed again as a collective hermeneutic.
 
 <!-- L'hypothèse avancée par l'auteure dans cet article, et qu'elle ne cessera d'affiner progressivement [@merzeau_entre_2014; @merzeau_profil_2016], est celle d'un dispositif d'éditorialisation collaborative qui, en générant un processus vertueux de circulation et de réécriture, permet du même coup un processus mémoriel reposant «&nbsp;sur une production documentaire affranchie des logiques affinitaires au sein d'un même espace contributif.[^ref]&nbsp;» -->
 
@@ -186,9 +189,12 @@ _bienveillance_ (tolerance)
 
 
 ===
-In 2013, Louise Merzeau analysed a dispositif that was designed to collaboratively document a 2 days conference. It appaers that not only the participants had fully documented the presentation but also that they had developed collectively a critical discourse around the conference that went beyond the ideas expressed at the event.
+In 2013, Louise Merzeau analysed a dispositif that was designed to collaboratively document a 2 days conference. It appaers that not only the participants had fully documented the presentation but also that they had developed collectively a critical discourse around the conference that went beyond the ideas expressed during the event.
 
-For Merzeau, the dispositif was successfull in becoming a common space for knowledge producing discussion thanks to 4 caracteristics :
+For Merzeau, the dispositif was successfull in becoming a common space for knowledge through discussions thanks to 4 caracteristics : Reflexivity,
+appropriation,
+distance,
+_bienveillance_ (tolerance)
 
 §§§§§SLIDEmoveDown§§§§§
 
@@ -200,11 +206,12 @@ For Merzeau, the dispositif was successfull in becoming a common space for knowl
 
 ===
 Reflexivity is the capacity to provide synthetic views of the conversation, so that each contributor can position herself in the collective discourse and take action. Where am I ?
+
 More importantly it allows the community to visualize a common purpose and therefore to collectively negociate the purpose by acting on it. Where are we going ?
 
 In our conversation format, we propose several visualisations and overview :
 
-1. cartography of the people, cartography of the ressources involved, cartography of concepts
+1. cartography of the people, cartography of the ressources involved, cartography of concepts semantically bound together
 2. spatial distribution of the ressources against the linear layout of the conversation
 3. structuring the flow with chapter divisions, providing some kind of storytelling
 4. and by using personnal collection, a storyfy-like, of conversation fragments, in order to let the community make sense of the conversation.
@@ -219,7 +226,7 @@ In our conversation format, we propose several visualisations and overview :
 
 Appropriation consists at stimulating the circulation and the reuse of contents and ressources, fostering new associations of ideas. By constant pasting and rewriting, fragments are confronted with others. Contributors can select, organise, rewrite the ressources, producing critical annotations and gloss.
 
-Appropriation must be seen as a new editorial function. Just like selection, editing and layout were the main duties of editors and of institutions in general, in the digital environment, it is not about making the ressources accessible anymore, it is about making the ressources accessible and appropriable (making its appropriation possible) : institutions must create the condition of possibility for the appropriation of knowledge ressources.
+Appropriation must be seen as a new editorial function. Just like selection, editing and layout were the main duties of editors and of institutions in general. In the digital environment, it is not about making the ressources accessible anymore, it is about making the ressources accessible and appropriable (making its appropriation possible) : institutions must create the condition of possibility for the appropriation of knowledge ressources.
 
 §§§§§SLIDEmoveDown§§§§§
 ### Distance
@@ -231,29 +238,29 @@ Appropriation must be seen as a new editorial function. Just like selection, edi
 
 ===
 
-Distance is a tricky one. I am talking about the distance between two fragments of meaning. VIdeo editors know that very well, it is the principle of video editing : bring together two shots, it creates a new meaning. In between two fragments of meaning, there is always an interstice, a small room where critical thinking can flourish. Thoses interstices are the very place of interpretation. They play the role of circuit breaker, inhibiting our reflex behaviours. It has the power to restore our cognitive capacities that were short-circuited or bypassed by affinity, algorithms and probability regime of the social networks.
+Distance is a tricky one. I am talking about the distance between two fragments of meaning. VIdeo editors know that very well, it is the principle of video editing : bring together two shots, it creates a new meaning. In between two fragments of meaning, there is always an interstice, a small room where critical thinking can flourish. Thoses interstices are the very place of interpretation. They play the role of circuit breaker, inhibiting our reflex behaviours. It has the power to restore our cognitive capacities that were short-circuited or bypassed by algorithms, affinity and probability regime of the social networks.
 
 Fake news grows on reflex behaviors. Knowledge circulation systems must introduce distance in order to restore critical thinking.
 
-In that sense, stackoverflow has a much better design in terms of critical thinking support than facebook.
+In that sense, stackoverflow has a much better design in terms of critical thinking than facebook.
 
 §§§§§SLIDEmoveDown§§§§§
 ### Bienveillance
 
-* two-way tolerance : dispositif <i class="fa fa-arrows-h"></i> practices
-* writing _in the_ "milieu" <i class="fa fa-arrows-h"></i> writing _the_ "milieu
+* two-way tolerance: dispositif <i class="fa fa-arrows-h"></i> practices
+* «écriture-milieu»: writing _in the_ "milieu" <i class="fa fa-arrows-h"></i> writing _the_ "milieu
 
 
 <i class="fa fa-arrow-right"></i> co-designed by the community : governance of the commons
 
 ===
 
-In Louise Merzeau theory, the system's bienveillance is its property to include individuals and to be adopted by the indivudals, very much like a prosthesis.
-There is a spatial metaphor again in the bienveillance. she use the term _bienveillance dispositive_ for a dispositif or a system that can be inhabited and occupied by their contributors. In that sense, there is a sense of appropriation again, but the appropriation of ressource but the one of the dispositif itself.
+In Louise Merzeau theory, the system's _bienveillance_ is its property to include individuals and to be adopted by the indivudals, very much like a prosthesis.
+There is a spatial metaphor again in the bienveillance. she use the term _bienveillance dispositive_ for a dispositif or a system that can be inhabited and occupied by their contributors. There is a sense of appropriation again, not the appropriation of ressource but the appropriation of the dispositif itself.
 
 By using it, contributors are indeed contributing to the dispositif. Their writing and rewriting of ressources are the writing of the dispositif. We can talk of medium writing, _écriture-milieu_, where writing acts both within the milieu and on the milieu.
 
-In concrete terms, the first action of bienveillance that can be taken is to co-design the dispositif with the community that will use it. It's also to allow the evolution of the dispositif following its usage (and its writing) by the community.
+In concrete terms, the first action of bienveillance that can be taken is to co-design the dispositif with the community that will use it. It's also to allow the evolution of the dispositif following its usage (and its écriture) by the community.
 
 Finally a common space for knowledge must starts with an open governance of the space itself.
 
@@ -272,28 +279,28 @@ articulating temporal and spatial dimensions
 
 ===
 
-La conversation has a strong time dimension. But to become a format and a document, we must articulate the temporal dimension of the conversation with the spatial dimension of the document.
+The conversation has a strong time dimension. But to become a format and a document, we must articulate the temporal dimension with the spatial dimension of the document.
 
 There is a tension between flow and synthesis, a tension to be maintained so that the dynamic of the conversation can perpetuate. There is a sense of instability or metastability that reminds the metaphor of the crystal.
 
-Short forms and fragments can cristalise and dissolve according to a temporality more fluid than the article temporality. Our hypothesis is that the hybrid reading and writing practices should inspire us new form of scholarly communication.
+Short forms and fragments can cristalise and dissolve according to a temporality more fluid than the article temporality. Our hypothesis is that our hybrid reading and writing practices should inspire us new form of scholarly communication.
 
 There is a precedent that truly legitimize this hypothesis:
 
-The Republic of Letters is known for the intense exchange of letters between scholars.
+Back in the 16 and 17th century, The Republic of Letters is known for the intense exchange of letters between scholars.
 
-In 1665, the first scholarly Journal: Le Journal des Savants was born in 1665, and was rapidely followed by other titles. What the journals were doing was first to edit and print the one-to-one letters, so that more readers could benefit from them.
+In 1665, was born the first scholarly Journal: Le Journal des Savants. It was rapidely followed by other titles. What the journals were doing was first to edit and print the one-to-one letters, so that more readers could benefit from them.
+
 From then, started a process of formalisation of the epistolary genre towards what became in 2 decades the scientific article as we know it today. Journals in the 17th century simply invented a new communication format to enhance the Great Scientific Conversation. The article was the perfect artefact for sharing knowledge in the printing environment.
 
 According to nowadays writing and social practices, we can legitimately forsee a new kind of scholarly communication, that fully embrace the digital environment. It's only a question of formalisation.
 
-However there are two pitfalls to avoid when modelising and formalising a practices :
+However there are two pitfalls to avoid when modelising and formalising practices:
 
 * the draining of its dynamic
 * the enclosure of meaning.
 
 The principles of the commons should help us avoid these obstacles by opening the governance of our systems and dispositifs to the community.
-
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
