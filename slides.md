@@ -1,20 +1,19 @@
-### Conversation
-#### Expérimentation + format éditorial = communication scientifique
+### Experimenting the conversations in scholarly journals
+
+<!-- .element: style="padding-top:2rem" -->
+
+#### The design of a new artefact of scientific communication
 &nbsp;
-
-_Conversations in scholarly journals: experimenting editorial format for scientific communication_
-
-<!-- .element: style="font-size:2rem" -->
 
 ---
 
-Nicolas Sauret, Servanne Monjour, Marcello Vitali-Rosati,  
-Joana Casenave, Enrico Agostini.
+Nicolas Sauret, Marcello Vitali-Rosati, Servanne Monjour,  
+Timothee Guicherd, Joana Casenave, Karine Bissonnette, Enrico Agostini Marchese
 
 <!-- .element: style="font-size:1.5rem" -->
 
-_Vitrine Humanités Numériques / DH Showcase 2018_  
-25-01-2018
+_CSDH/SCHN Digital Humanities Conference 2018_  
+26-05-2018 | Regina
 
 <!-- .element: style="font-size:1.5rem" -->
 
@@ -24,49 +23,84 @@ _Vitrine Humanités Numériques / DH Showcase 2018_
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="https://screenshotscdn.firefoxusercontent.com/images/067d8cc9-293e-4e6b-a5f5-eb3e0027ceb3.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/senspublicEN.png" data-background-size="contain"-->
 <!--  .slide: class="hover"-->
 
-- 1 revue : Sens Public <i class="fa fa-arrow-right"></i> 1 refonte complète
-- 1 expérimentation <i class="fa fa-arrow-right"></i> 1 format éditorial nouveau
+- Sens Public <i class="fa fa-arrow-right"></i> full reset
+- experimenting a new editorial format for scholarly communication <i class="fa fa-arrow-right"></i> the _conversation_
 
 ===
 
-- 1 projet : une revue : SP (2003), projet de refonte complète tant éditorialement que techniquement du site de la revue
-- 1 expérimentation : la conception et l'implémentation d'un nouveau format éditorial : la conversation.
+In 2016, the journal Sens Public launched a project to redesign its website. But the project quickly pushes the team to rethink the journal technicaly, editorialy and philosophicaly all at once. What appeared as a straightforward project eventually revealed itself as a complex one opening multiple subprojects nested in one another.
+
+One of which was the experimentation of a new editorial format for scholarly communication, that would take place within the journal. We named this format _The Conversation_.
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
-
-### Pourquoi un format éditorial conversationnel ?
+_why a conversational editorial format?_
 
 §§§§§SLIDEmoveDown§§§§§
 
-#### artefacts académique /  pratiques réelles
+<i class="fa fa-arrow-right"></i> mutation of the writing and reading medium and practices
+
+
+<i class="fa fa-arrow-right"></i> epistemological transition ?
+
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+===
+We build our experimentation on the assessment that the writing and reading practices of humanities scholars, which have largely moved on towards the digital environment, where not in tune anymore with the traditional forms of scholarly communication, such as the article ("paper"), the monograph or the conference.
+
+Indeed, the digital environment has disrupted the traditional relationships between institutions, apparatus and medium, disrupting in the same time the traditional epistemological model, and particulary the scholarly communication and publishing.
+
+
+§§§§§SLIDEmoveDown§§§§§
+
+#### scholarly artefacts VS in the field practices
 
 &nbsp;
 
-<i class="fa fa-arrow-right"></i> déphasage institutionnel
+<i class="fa fa-arrow-right"></i> institutional delay : scholars evaluation
 
-<i class="fa fa-arrow-right"></i> déphasage éditorial
+<!-- .element: class="fragment" data-fragment-index="1" style="text-align:left"-->
 
-> Les lieux et les formes de la controverse échappent de plus en plus à l'institution
+<i class="fa fa-arrow-right"></i> editorial delay : pre-digital forms
+
+<!-- .element: class="fragment" data-fragment-index="2" style="text-align:left"-->
+
 
 ===
-(1627)
-constat d'un certain déphasage entre **les pratiques de lecture et d'écriture des chercheurs** en humanités, qui, elles, sont largement passées au numérique, et **les formats traditionnels de communication scientifique**, que ce soit l'article, la monographie ou la communication en conférence.
+They are out of tune first because of an institutional delay : the research are evaluated mainly on the prestige of the journal where it is published, rather than on the scientific quality of the research. This is the direct consequence of the Science Citation Index established in 1960 and which set _publish or perish_ as a leitmotiv. In that evaluation paradigm, journals are seen as a mean for one's career and not as a mean for discussion and sharing.
 
-- institutionnel: lié à l'évaluation de la recherche, reposant entièrement sur le prestige des revues plutôt que sur la qualité scientifique (conséquence du Science Citation Index, et du leitmotiv _publish or perish_). Dans ce modèle d'évaluation, les revues sont devenir des vecteurs de carrières plutôt que de conversation et de partage.
+Moreover, the institutions are not able to fully take in consideration new forms of writing and publishing, natively digital, such as blogging, micro-blogging, mailing list, multiples contributions on platforms, etc.
 
-<!-- les institutions sont dans l'incapacité de prendre en compte dans l'évaluation des chercheurs les nouvelles formes d'écriture et de communication propre à l'environnement numérique (blogs, micro-blogging, listes de diffusion, contributions multiples sur les plateformes, etc.). Ici les verrous sont économiques, juridiques et idéologiques, l'évaluation de la recherche reposant entièrement sur le Science Citation Index, sur le leitmotiv "publish or perish", ce qui a eu pour effet d'indexer l'évaluation sur le prestige des revues  et non sur la qualité scientifique (avec tous les travers de concentration des pouvoirs), et de positionner les revues comme des vecteurs de carrières plutôt que de conversation et de partage. -->
+Secondly, They are out of tune because of an editorial delay : in terms of publishing, we can observe a shift in the traditional modes of publishing, which remain largely based on the printing model, ignoring the very nature of digital text and the potential of digital environment. The article ("paper"), the monograph, the proceedings, and even the conference, have not yet gone digital. These forms of scholarly communication deeply inherited from the pre-digital era, whether it be economic and legal aspects (such as a certain understanding of copyright), or technical aspects, greatly depending on paper, book and printing expertises.
 
-- éditorial: des chaînes de l'écrit, de chaines éditoriales encore largement attachées aux paradigmes du papier. Certes des formats, des standards et des plateformes numériques sont apparus (la TEI, JATS, Article Erudit, ), mais l'article lui-même a très peu évolué en tant que forme de communication scientifique.
-<!-- Finalement, les artefacts traditionnels de la communication scientifique peinent à prendre en compte toutes les potentialités du texte numérique et de son environnement. -->
+§§§§§SLIDEmoveDown§§§§§
 
-On pourrait penser que la conversation scientifique en pâtit. Celle-ci se porte bien, mais hors de l'institution. En fait, les lieux et les formes de la conversation scientifique semble échapper à l'institution.
+«The places and the forms of controversy and consensus slip from the institution's grasp.»
+
+
+===
+One could think that the great scientific conversation is going down. But on the contrary, it goes very well, but out of the radar of the institution. In fact, the places and the forms of controversy and consensus slip from the institution's grasp.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
+
+<!-- .slide: data-background-image="img/piazzadelcampo.jpg" data-background-size="cover"-->
+<!--  .slide: class="hover"-->
+
+
+## Public Space
+
+===
+From here, we decided to rethink the role and the mission of the journal in the humanities, or more precisely to renew or revitalise its original mission, which is to create a public space for sharing and discussing hypothesis, ideas, experiences, aiming at one goal only, the progress of knowledge.
+
+Such ambition does not come out of the blue for Sens Public. It has an particular history that makes the journal a natural place for such and experimentation. From its origin on the web in 2003, the journal Sens Public never stopped to address what could be the production and the circulation of knowledge in the public space in the digital era.
+
+Therefore experimenting a new form of scholarly communication aligns naturally with the journal's DNA. It aims at opening a new kind of public and publishing space in which the scientific community could grow up to an intelligence network (Vitali-Rosati).
+
+§§§§§SLIDEmoveDown§§§§§
 
 <!-- .slide: data-background-image="https://static1.squarespace.com/static/59af892bbebafb7afc6d4350/t/59cfaaf10abd041b023fc287/1506781954068/K2CrO4_1.jpg" data-background-size="cover"-->
 <!--  .slide: class="hover"-->
@@ -80,56 +114,193 @@ On pourrait penser que la conversation scientifique en pâtit. Celle-ci se porte
 
 ===
 
-1 concept nous a aidé à concevoir ce que serait une conversation, C'est le concept de "cristal de connaissances" introduit par JeanClaude Guédon.
+A concept helped us to conceive what would be a conversation. The crystal of knowledge was introduced by JeanClaude Guédon.
 
-Selon ce concept de cristal, la conversation consiste en une problématique qui cristallise par agrégation : agrégation de personnes, agrégation de contributions, sous formes de discussions, d'articles, d'annotations, de fragments de texte, disposés ensemble et formant en quelque sorte un réseau d'intelligence temporaire.
+**développer sur les idées de Guédon : format plus court, plus fluide.**
 
-Temporaire car la problématique, partagée par la communcauté, a vocation à être éphémère ou persistante, le principe étant que le cristal puisse émerger, cristalliser, puis se dissoudre au fil du temps et des questions traitées par la communauté.
+Following the metaphor of the crystal, the conversation would be a scientific question on which elements would agregate and crystalize : people, whether they are readers, contributors, authors or even cited authors ; contributions, in the form of discussions threads, articles, annotations, text fragments, agregating together to shape a temporary intelligence and knowledge network.
 
-%%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
+Temporary since the question, shared by the community, can be ephemeral or persistent. The principle is that the crystal can emerge, cristalize then dissolve according to what the community is willing to address.
 
-<!-- .slide: data-background-image="https://screenshotscdn.firefoxusercontent.com/images/29f38374-ad15-4219-b644-e8d6c53eb715.png" data-background-size="contain"-->
+
+§§§§§SLIDEmoveDown§§§§§
+
+<!-- .slide: data-background-image="img/networkDesignI.jpg" data-background-size="contain"-->
 <!--  .slide: class="hover"-->
 
 
-### 2 espaces
+### 2 spaces
 
-| Documentaire | Conversationnel |
+| documentary | conversational |
 | :-: |:-:  |
-| axé sur les articles | axé sur les échanges sociaux |
+| based on articles | based on social writing |
 
 <!-- .element: class="tableau" -->
 
 ===
-la revue aura donc deux espaces : documentaire, axé sur les articles, et conversationnel, axé sur les échanges sociaux.
+The journal will have two spaces, as two access point : documentary, based on articles, and conversational, based on social writing.
 
-Mais c'est en fait **un même espace informationnel**, comme les deux faces d'une même pièce, l'une alimentant l'autre et vice versa, puisqu'en effet, les articles deviennent des supports et des prétextes à discussion et à conversation, tandis que les conversations peuvent _infiné_ aboutir à des publications plus classiques sous la forme d'article.
+But one should think of them as one information space, like the two sides of a coin. They will feed each other with information, since the articles become the medium and the pretext for discussion and conversation, whereas indeed the conversations can eventually give birth to more traditionnal publication such as articles.
 
-La dynamique change : d'un dossier de revue à une conversation, ce n'est plus une poignée d'auteurs traitant individuellement d'une thématique proposée de manière unilatérale, mais plutôt d'une communauté élaborant collectivement une problématique.
+But you can notice that the dynamique of the journal is changing : from the journal issues to the journal conversation, it is not anymore a handful of authors writing individually on an unilateraly proposed subject, but rather a community collectively raising and adressing an issue.
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
-### Design de la conversation
 
-articuler la dimension temporelle et la dimension spatiale
+### Designing the conversation
 
-| Temps | <i class="fa fa-arrow-right"></i> |flux |
+&nbsp;
+
+<i class="fa fa-arrow-right"></i> create a common space for knowledge
+
+
+<i class="fa fa-arrow-right"></i> generate a collective hermeneutic
+
+
+<i class="fa fa-arrow-right"></i> bring together the social and the documentary regimes
+
+
+===
+
+What are the objectives in designing the Conversation.
+First of all, it is the create a common space for sharing ideas, discussing issues, and confronting theories. It should be a place to produce knowledge my mobilizing ressources and people.
+
+But we know that the Web can be a place of low thinking, reflex and even worth of toughts control : Nicholas Carr considers that Internet as a medium reduces our capacities of concentration and thinking, Dominique Cardon (french sociologist of the web) worries about the predominance of affinity in the content recommandation, Antoinette Rouvroy thinks that the algorithmique gouvernementality or algorithmique regime reduces the individual subjectivity (and future) to predictive profils. Many works on the scheme of attention in the digital environment have analysed how the Web as a communication medium tends towards diminishing the common spaces of memory and knowledge.
+
+However, our hypothesis is that by bringing together the social regime and the documentary regime together in one format and one dispositif, we can recreate such common space and fostering a collective hermeneutic.
+
+<!-- L'hypothèse avancée par l'auteure dans cet article, et qu'elle ne cessera d'affiner progressivement [@merzeau_entre_2014; @merzeau_profil_2016], est celle d'un dispositif d'éditorialisation collaborative qui, en générant un processus vertueux de circulation et de réécriture, permet du même coup un processus mémoriel reposant «&nbsp;sur une production documentaire affranchie des logiques affinitaires au sein d'un même espace contributif.[^ref]&nbsp;» -->
+
+§§§§§SLIDEmoveDown§§§§§
+### Collaborative editorialization _dispositif_
+
+> Merzeau, Louise. 2013. “Éditorialisation collaborative d’un événement.” Communication et organisation, no. 43. [doi.org/10.4000/communicationorganisation.4158](https://doi.org/10.4000/communicationorganisation.4158)
+
+&nbsp;
+
+<i class="fa fa-arrow-right"></i> Reflexivity,
+appropriation,
+distance,
+_bienveillance_ (tolerance)
+
+<!-- .element: style="font-size:0.8em;" -->
+
+
+===
+In 2013, Louise Merzeau analysed a dispositif that was designed to collaboratively document a 2 days conference. It appaers that not only the participants had fully documented the presentation but also that they had developed collectively a critical discourse around the conference that went beyond the ideas expressed at the event.
+
+For Merzeau, the dispositif was successfull in becoming a common space for knowledge producing discussion thanks to 4 caracteristics :
+
+§§§§§SLIDEmoveDown§§§§§
+
+### Reflexivity
+
+* where am I?  <i class="fa fa-arrow-right"></i> one's position
+* where are we going?  <i class="fa fa-arrow-right"></i> common purpose
+
+
+===
+Reflexivity is the capacity to provide synthetic views of the conversation, so that each contributor can position herself in the collective discourse and take action. Where am I ?
+More importantly it allows the community to visualize a common purpose and therefore to collectively negociate the purpose by acting on it. Where are we going ?
+
+In our conversation format, we propose several visualisations and overview :
+
+1. cartography of the people, cartography of the ressources involved, cartography of concepts
+2. spatial distribution of the ressources against the linear layout of the conversation
+3. structuring the flow with chapter divisions, providing some kind of storytelling
+4. and by using personnal collection, a storyfy-like, of conversation fragments, in order to let the community make sense of the conversation.
+
+§§§§§SLIDEmoveDown§§§§§
+### Appropriation
+
+* stimulating circulation, rewriting <i class="fa fa-arrow-right"></i> critical gloss
+* new editorial role <i class="fa fa-arrow-right"></i> from access to appropriation
+
+===
+
+Appropriation consists at stimulating the circulation and the reuse of contents and ressources, fostering new associations of ideas. By constant pasting and rewriting, fragments are confronted with others. Contributors can select, organise, rewrite the ressources, producing critical annotations and gloss.
+
+Appropriation must be seen as a new editorial function. Just like selection, editing and layout were the main duties of editors and of institutions in general, in the digital environment, it is not about making the ressources accessible anymore, it is about making the ressources accessible and appropriable (making its appropriation possible) : institutions must create the condition of possibility for the appropriation of knowledge ressources.
+
+§§§§§SLIDEmoveDown§§§§§
+### Distance
+
+* 1+1 = 3
+* interstice as :
+  * circuit breaker
+  * the very place of interpretation
+
+===
+
+Distance is a tricky one. I am talking about the distance between two fragments of meaning. VIdeo editors know that very well, it is the principle of video editing : bring together two shots, it creates a new meaning. In between two fragments of meaning, there is always an interstice, a small room where critical thinking can flourish. Thoses interstices are the very place of interpretation. They play the role of circuit breaker, inhibiting our reflex behaviours. It has the power to restore our cognitive capacities that were short-circuited or bypassed by affinity, algorithms and probability regime of the social networks.
+
+Fake news grows on reflex behaviors. Knowledge circulation systems must introduce distance in order to restore critical thinking.
+
+In that sense, stackoverflow has a much better design in terms of critical thinking support than facebook.
+
+§§§§§SLIDEmoveDown§§§§§
+### Bienveillance
+
+* two-way tolerance : dispositif <i class="fa fa-arrows-h"></i> practices
+* writing _in the_ "milieu" <i class="fa fa-arrows-h"></i> writing _the_ "milieu
+
+
+<i class="fa fa-arrow-right"></i> co-designed by the community : governance of the commons
+
+===
+
+In Louise Merzeau theory, the system's bienveillance is its property to include individuals and to be adopted by the indivudals, very much like a prosthesis.
+There is a spatial metaphor again in the bienveillance. she use the term _bienveillance dispositive_ for a dispositif or a system that can be inhabited and occupied by their contributors. In that sense, there is a sense of appropriation again, but the appropriation of ressource but the one of the dispositif itself.
+
+By using it, contributors are indeed contributing to the dispositif. Their writing and rewriting of ressources are the writing of the dispositif. We can talk of medium writing, _écriture-milieu_, where writing acts both within the milieu and on the milieu.
+
+In concrete terms, the first action of bienveillance that can be taken is to co-design the dispositif with the community that will use it. It's also to allow the evolution of the dispositif following its usage (and its writing) by the community.
+
+Finally a common space for knowledge must starts with an open governance of the space itself.
+
+
+§§§§§SLIDEmoveDown§§§§§
+
+### designing time & space
+
+articulating temporal and spatial dimensions
+
+| Time | <i class="fa fa-arrow-right"></i> | flow |
 | :-- |:-:  | :--|
-| Espace | <i class="fa fa-arrow-right"></i> |synthèse |
+| Space | <i class="fa fa-arrow-right"></i> | synthesis |
 
 <!-- .element: class="tableauNoBold" -->
 
 ===
 
-La conversation fonctionne sur le paradigme du flux. Or pour faire "format" ou pour faire "document", il nous faut articuler la dimension temporelle de la conversation avec une dimension spatiale documentaire.
+La conversation has a strong time dimension. But to become a format and a document, we must articulate the temporal dimension of the conversation with the spatial dimension of the document.
 
-Cette dimension spatiale nous sera donnée par des visualisation de la conversation, permettant de la synthétiser : timeline des controverses, cartographie de la communauté impliquée, ou encore cartographie des fragments de connaissances agrégés.
+There is a tension between flow and synthesis, a tension to be maintained so that the dynamic of the conversation can perpetuate. There is a sense of instability or metastability that reminds the metaphor of the crystal.
+
+Short forms and fragments can cristalise and dissolve according to a temporality more fluid than the article temporality. Our hypothesis is that the hybrid reading and writing practices should inspire us new form of scholarly communication.
+
+There is a precedent that truly legitimize this hypothesis:
+
+The Republic of Letters is known for the intense exchange of letters between scholars.
+
+In 1665, the first scholarly Journal: Le Journal des Savants was born in 1665, and was rapidely followed by other titles. What the journals were doing was first to edit and print the one-to-one letters, so that more readers could benefit from them.
+From then, started a process of formalisation of the epistolary genre towards what became in 2 decades the scientific article as we know it today. Journals in the 17th century simply invented a new communication format to enhance the Great Scientific Conversation. The article was the perfect artefact for sharing knowledge in the printing environment.
+
+According to nowadays writing and social practices, we can legitimately forsee a new kind of scholarly communication, that fully embrace the digital environment. It's only a question of formalisation.
+
+However there are two pitfalls to avoid when modelising and formalising a practices :
+
+* the draining of its dynamic
+* the enclosure of meaning.
+
+The principles of the commons should help us avoid these obstacles by opening the governance of our systems and dispositifs to the community.
+
 
 
 %%%%%%%%%%%%%%%%%%SECTIONmoveRight%%%%%%%%%%%%%%%%%%
 
-### Merci !
+### Thank you !
 
-à suivre sur [nicolassauret.net/carnets](http://nicolassauret.net/carnets)
+[nicolassauret.net/carnets](http://nicolassauret.net/carnets)
 
 <!-- .element: class="petit" -->
 
