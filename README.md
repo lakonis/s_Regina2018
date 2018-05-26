@@ -1,2 +1,2 @@
-# s_VitrineDH2018
-Slides Vitrine DH 2018 sur Conversation
+# s_Regina2018
+Slides présentation Regina 2018 (CSDH/SDHN) on Conversations
